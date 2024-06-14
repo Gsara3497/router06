@@ -1,8 +1,22 @@
-# React + Vite
+# **Day 26 Task**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## **React Router Task**
 
-Currently, two official plugins are available:
+## **Task Description:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The objective of this task is to create a web page with routes using react-router-dom. The design of the page should be based on the following URL: https://www.guvi.in/blog/
+
+Refer to https://reactrouter.com/en/main for any help or guidance on React Router DOM.
+
+**Procedure:-**
+
+Step 1: Open command prompt then write cd desktop -> [npm -v] ->[npm create vite@latest] next project name[router06] -> select [react] -> [javascript]
+
+Step 2: Open file manager then select project name [router06] tpye cmd then open command prompt type (code .) then create vs code.
+
+Step 3: To create react router task to the task.
+
+step 4: Then open terminal -> npm install and  npm install react-router-dom next npm run dev to create web page for the result.
+
+Step 5: Then we can see the react router task for github and netlify
+
